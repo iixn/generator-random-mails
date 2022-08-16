@@ -10,3 +10,4 @@ then we will build the program:
 ```
 cargo build
 ```
+![](./img/cargo-building.png)
