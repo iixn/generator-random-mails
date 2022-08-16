@@ -11,3 +11,13 @@ then we will build the program:
 cargo build
 ```
 ![](./img/cargo-building.png)
+One time the program is compiled we will run the program:
+```
+cargo run
+```
+![](./img/cargo-running.png)
+And there we have our new electronic mail account :)
+
+# IMPORTANT
+
+The account is not checked if exists or not,you will have to look it
